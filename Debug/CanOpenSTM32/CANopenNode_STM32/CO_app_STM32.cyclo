@@ -1,0 +1,4 @@
+../CanOpenSTM32/CANopenNode_STM32/CO_app_STM32.c:61:1:canopen_app_init	2
+../CanOpenSTM32/CANopenNode_STM32/CO_app_STM32.c:117:1:canopen_app_resetCommunication	9
+../CanOpenSTM32/CANopenNode_STM32/CO_app_STM32.c:212:1:canopen_app_process	4
+../CanOpenSTM32/CANopenNode_STM32/CO_app_STM32.c:241:1:canopen_app_interrupt	3

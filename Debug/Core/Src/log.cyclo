@@ -1,0 +1,4 @@
+../Core/Src/log.c:8:6:log_info	1
+../Core/Src/log.c:17:6:log_error	1
+../Core/Src/log.c:26:6:log_warn	1
+../Core/Src/log.c:35:6:log_debug	1
